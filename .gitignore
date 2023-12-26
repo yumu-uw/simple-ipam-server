@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# oapi code gen
+*.gen.go
+
+# tmp
+tmp
